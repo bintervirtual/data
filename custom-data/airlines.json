@@ -1150,5 +1150,23 @@
     "name": "Air India Virtual",
     "callsign": "ALLIED",
     "virtual": true
-  }  
+  },
+  {
+    "icao": "IBB",
+    "name": "BINTER VIRTUAL",
+    "callsign": "BINTER",
+    "virtual": true
+  },
+  {
+    "icao": "RSC",
+    "name": "BINTER VIRTUAL",
+    "callsign": "CANAIR",
+    "virtual": true
+  },
+  {
+    "icao": "NAY",
+    "name": "BINTER VIRTUAL",
+    "callsign": "NAYSA",
+    "virtual": true
+  }
 ]
